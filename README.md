@@ -1,9 +1,9 @@
 # "SECURITY-FORM-LOGIN-WITH-JWT" IS A COMBINATION OF SIMPLE SPRING BOOT AND SPRING SECURITY APPLICATION WITH JWT FEATURES♨️🍃🔐
 # About This Project
 
-<h3> Different Admin can login form with their username and password. </h3>
-<h3> Different User can login form with their username and password </h3>
-<h3> Admin and User can also logout </h3>
+<h3>1. Different Admin can login form with their username and password. </h3>
+<h3>2. Different User can login form with their username and password </h3>
+<h3>3. Admin and User can also logout </h3>
 
 # Technogies Used
   
